@@ -1,4 +1,4 @@
 <html>
     trait_exists
 </html>
-v0.2 feature2 - commit 1
+v0.2 feature2 - commit 2
